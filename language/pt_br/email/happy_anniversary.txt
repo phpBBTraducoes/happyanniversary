@@ -1,0 +1,12 @@
+Assunto: Feliz aniversário de membro
+
+Feliz aniversário, {USERNAME}
+
+Neste dia {YEARS} anos atrás, você encontrou {SITENAME} na Internet e o amor começa aqui. É a hora de celebrar as alegrias de hoje, as lembranças de ontem e as esperanças de amanhã. Obrigado por fazer parte da nossa comunidade online.
+
+Visite {SITENAME} agora, vamos dizer que amamos muito você:
+{U_BOARD}
+
+Sempre ao nosso lado, Doce Amor :)
+
+{EMAIL_SIG}
